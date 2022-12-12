@@ -1,4 +1,3 @@
-
 > **Who Am I?**
 
 **Hello There :) .  
@@ -22,9 +21,11 @@ eLearnSecurity
 > **CVEs:**
 
 - [CVE-2021-42183](https://nvd.nist.gov/vuln/detail/CVE-2021-42183)
+
 MasaCMS 7.2.1 is affected by a path traversal vulnerability in /index.cfm/_api/asset/image/.
 
 - [CVE-2022-29704](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29704)
+
 BrowsBox CMS v4.0 was discovered to contain a SQL injection vulnerability via path fragament
 
 - [CVE-2022-1825](https://nvd.nist.gov/vuln/detail/CVE-2022-1825)
