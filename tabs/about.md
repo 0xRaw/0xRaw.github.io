@@ -48,10 +48,11 @@ i discovered multiple bugs and got acknowledged by major companies :
  - **John Deere**
 
 > **Competitions**
+- **First Place ( 1st ) in Gulf CTF with my team ( Potato )- 2023**
 
 - **Most Critical Bug Submitted in BugBounty Cup Competition in Riyadh, BlackHat Middle East - 2022**
 
-- **First Place (1st) In intigriti leaderboard for the Second Quarter (worldwide) - 2022**
+- **First Place ( 1st ) In intigriti leaderboard for the Second Quarter (worldwide) - 2022**
 
 - **First Place ( 1st ) in Saudi Aramco Cyber Security Chair  with my team ( Potato ) - 2021**
 
